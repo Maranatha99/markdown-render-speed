@@ -4,7 +4,11 @@ A fast, dependency-free drop-in replacement for [marked](https://github.com/mark
 
 Built for the [make.fun](https://make.fun) bounty **markdown-render-speed-02** ($250, top 20 paid).
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun?ref=s11m3687)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/Maranatha99/markdown-render-speed/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/Maranatha99/markdown-render-speed/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
+Built with [make.fun](https://make.fun?ref=s11m3687).
 
 ## Usage
 
